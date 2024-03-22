@@ -1,4 +1,4 @@
-#!/bin/bash
+
 
 
 from termcolor import colored
