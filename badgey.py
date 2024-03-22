@@ -101,11 +101,10 @@ def lessons():
           """
 
   facts = [ 
-          # plasma,
-          # conduits,
-          #  impulse,
+          plasma,
+          conduits,
+          impulse,
           inducers
-
           ]
   x=random.randint( 0, len(facts)-1)
   print(f" Today's lesson: \n{facts[x]}")
